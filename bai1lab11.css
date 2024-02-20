@@ -1,0 +1,17 @@
+.header{
+    background-color: rgb(16, 203, 16);
+    color: white;
+}
+.nav{
+    background-color: rgb(180, 255, 165);
+    font-size: 15x;
+}
+.team, .date{
+    color: red;
+}
+.content{
+    background-color: rgb(225, 252, 225);
+}
+table{
+    border: 2px solid rgb(86, 142, 2);
+}
